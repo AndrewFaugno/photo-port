@@ -1,6 +1,5 @@
 import React from "react";
 
-// nav
 function Nav() {
     function categorySelected(name) {
         console.log(`${name} clicked`)
